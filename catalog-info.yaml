@@ -4,5 +4,5 @@ metadata:
   name: "poc"
 spec:
   type: service
-  owner: user:guest
+  owner: group:guests
   lifecycle: experimental
